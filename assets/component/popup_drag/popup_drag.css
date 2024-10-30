@@ -1,0 +1,15 @@
+.c9-popup-drag {
+  position: fixed;
+  z-index: 100;
+  top: 10px;
+  left: 10px;
+}
+
+.c9-popup-drag-active {
+  z-index: 1000 !important;
+}
+
+.c9-popup-header {
+  height: 16px;
+  cursor: grab;
+}
